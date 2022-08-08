@@ -1,7 +1,7 @@
 /configver 2
 /panels [<1>]
 /panels/panel-1/length uint32 100
-/panels/panel-1/plugin-ids [<1>, <12>, <9>, <8>, <11>, <10>, <3>, <15>, <14>, <6>, <4>, <7>, <5>, <13>, <2>]
+/panels/panel-1/plugin-ids [<1>, <12>, <9>, <8>, <11>, <10>, <14>, <3>, <15>, <6>, <4>, <7>, <5>, <13>, <2>]
 /panels/panel-1/position 'p=8;x=0;y=-1'
 /panels/panel-1/position-locked true
 /panels/panel-1/size uint32 30
