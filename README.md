@@ -7,5 +7,5 @@ tarballs that can be created by running
 make pkg
 ```
 
-may be used by the xfce4-panel-profiles too to reset the panel
+may be used by the xfce4-panel-profiles tool to reset the panel
 configuration to the Salix default.
