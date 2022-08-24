@@ -34,6 +34,7 @@
 /plugins/plugin-5/digital-format ' %a %_d %b, %R '
 /plugins/plugin-5/show-frame false
 /plugins/plugin-6 'systray'
+/plugins/plugin-6/icon-size 24
 /plugins/plugin-6/known-legacy-items [<'networkmanager applet'>]
 /plugins/plugin-6/show-frame false
 /plugins/plugin-7 'showdesktop'
